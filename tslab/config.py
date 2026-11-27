@@ -14,7 +14,8 @@ PROJECT_ROOT = Path(__file__).resolve().parent.parent
 DATA_DIR = PROJECT_ROOT / "data"
 OUTPUT_DIR = PROJECT_ROOT / "outputs"
 
-TARGET_TICKER = "GOOGL"
+TARGET_TICKER = "AAPL"
+#TARGET_TICKER = "GOOGL"
 # TARGET_TICKER = "NVDA"
 
 # ---------------------------------------------------------------------------
