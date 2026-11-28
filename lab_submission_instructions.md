@@ -7,8 +7,15 @@
 **Name of the team on GitHub Classroom:**
 
 **Team Member Contributions:**
-
 **Member 1**
+
+| **Details**                                                                                        | **Comment** |
+|:---------------------------------------------------------------------------------------------------|:------------|
+| **Student ID:**                                                                                    |             |
+| **Name:**                                                                                          |             |
+| **What part of the lab did you personally contribute to,** <br>**and what did you learn from it?** |             |
+
+**Member 2**
 
 | **Details**                                                                                        | **Comment** |
 |:---------------------------------------------------------------------------------------------------|:------------|
@@ -16,13 +23,6 @@
 | **Name:**                                                                                          |              Raymond Mungai Benaiah |
 | **What part of the lab did you personally contribute to,** <br>**and what did you learn from it?** | I prepared and recorded the final demonstration video. To make it accurate, I reviewed the data-quality report, the model comparison and Diebold–Mariano results, the multi-horizon forecast table, and the Power BI chart. I explained how the forecasts compare with the naive baseline and what the results do and do not support. I learned how to interpret forecast evaluation results and communicate uncertainty in a long-horizon forecast. |
 
-**Member 2**
-
-| **Details**                                                                                        | **Comment** |
-|:---------------------------------------------------------------------------------------------------|:------------|
-| **Student ID:**                                                                                    |             |
-| **Name:**                                                                                          |             |
-| **What part of the lab did you personally contribute to,** <br>**and what did you learn from it?** |             |
 
 **Member 3**
 
