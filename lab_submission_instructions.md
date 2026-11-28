@@ -212,9 +212,9 @@ A model that does **not** beat the naive forecast does not lose marks for that r
 
 ### Before You Submit, Check
 
-- [ ] The notebooks run from top to bottom after restarting the kernel.
-- [ ] The naive forecast appears in every result table.
-- [ ] The CSV files for your tier are in the `data` folder and open correctly in Power BI.
-- [ ] Your written verdict says plainly whether the model beats the naive forecast.
-- [ ] The video is not longer than 4 minutes and the link works without a login.
-- [ ] The contribution of every team member is filled in at the top of this file.
+- [x] The notebooks run from top to bottom after restarting the kernel.
+- [x] The naive forecast appears in every result table.
+- [x] The CSV files for your tier are in the `data` folder and open correctly in Power BI.
+- [x] Your written verdict says plainly whether the model beats the naive forecast.
+- [x] The video is not longer than 4 minutes and the link works without a login.
+- [x] The contribution of every team member is filled in at the top of this file.
