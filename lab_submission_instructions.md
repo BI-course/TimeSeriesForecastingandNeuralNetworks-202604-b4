@@ -178,7 +178,7 @@ For all three tiers, submit the link to a short video (not more than 4 minutes) 
 
 | **Key**                | **Value** |
 |:-----------------------|:----------|
-| **Link to the video:** |    https://drive.google.com/file/d/1mjd8YfCoMq5_XmC99WDpg3pK76al08Li/view?usp=drive_link       |
+| **Link to the video:** |    https://drive.google.com/file/d/15XJwN4qwqZ9Bs2nD_BHKupncijZjxKjR/view?usp=sharing       |
 
 ---
 
